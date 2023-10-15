@@ -1,2 +1,3 @@
-# Adaptive-staircase-
+Psychopy submission
+
 my repository on git hub 
